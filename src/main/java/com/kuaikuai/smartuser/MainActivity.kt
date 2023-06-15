@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Hello Android Smart User")
+                    Greeting("Hello Android Smart User version 2")
                 }
             }
         }
